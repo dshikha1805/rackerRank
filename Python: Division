@@ -1,0 +1,5 @@
+#Here is the simple code for Python pratice from hackerRank
+a=int(input())
+b=int(input())
+print(a//b)
+print(a/b)
